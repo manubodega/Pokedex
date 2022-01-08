@@ -1,0 +1,23 @@
+.body{
+    width: max-content;
+}
+
+
+.contenedor{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card{
+    display: inline-block;
+    margin: 5px;
+    width: 100px;
+    border: solid 1px red;
+    padding: 3px;
+}
+
+.title {
+    text-align: center;
+    /* background-color: blue; */
+}
+
